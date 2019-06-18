@@ -44,4 +44,4 @@ cap.release()
 # De-allocate any associated memory usage 
 cv2.destroyAllWindows()
 
-One thing that can be done using cv2 is the invisibility cloak, one of the 3 gifts by Death 
+One thing that can be done using cv2 is the invisibility cloak, one of the 3 gifts by Death to the 3 Brothers in the Deathly Hollows .....Valar Dohaeris..
